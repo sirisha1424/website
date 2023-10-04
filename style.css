@@ -1,0 +1,79 @@
+/* Home page */
+
+body {
+    font-family: sans-serif;
+    background-color: #f4f4f4;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 0;
+    color: #000;
+  }
+  
+  p {
+    text-align: center;
+    color: #666;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #000;
+  }
+  
+  a:hover {
+    color: #ccc;
+  }
+  
+  /* Login page */
+  
+  form {
+    width: 300px;
+    margin: 0 auto;
+    background-color: #f7f7f7;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    background-color: #ff9900;
+    color: #ffffff;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #cc6600;
+  }
+  
+  /* Registration page */
+  
+  form {
+    width: 300px;
+    margin: 0 auto;
+    background-color: #fffafa;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    background-color: #0099ff;
+    color: #ffffff;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0066cc;
+  }
+  
